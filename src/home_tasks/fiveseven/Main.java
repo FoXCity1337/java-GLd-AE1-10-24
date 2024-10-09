@@ -1,4 +1,4 @@
-package fiveseven;
+package home_tasks.fiveseven;
 
 public class Main {
     public static void main(String[] args) {

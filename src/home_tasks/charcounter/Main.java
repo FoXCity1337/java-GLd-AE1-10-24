@@ -1,4 +1,4 @@
-package charcounter;
+package home_tasks.charcounter;
 
 public class Main {
     public static void main(String[] args) {

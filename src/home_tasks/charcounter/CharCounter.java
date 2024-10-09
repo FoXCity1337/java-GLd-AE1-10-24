@@ -1,4 +1,4 @@
-package charcounter;
+package home_tasks.charcounter;
 
 import java.util.HashMap;
 import java.util.Map;

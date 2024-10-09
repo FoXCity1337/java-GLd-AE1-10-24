@@ -1,4 +1,4 @@
-package bookshop;
+package home_tasks.bookshop;
 
 import java.util.ArrayList;
 

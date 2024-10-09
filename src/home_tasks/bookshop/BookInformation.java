@@ -1,4 +1,4 @@
-package bookshop;
+package home_tasks.bookshop;
 
 public class BookInformation {
     private int id;
